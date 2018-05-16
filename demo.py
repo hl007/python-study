@@ -19,3 +19,5 @@ def test():
 print(__doc__)
 if __name__=='__main__':
     test()
+
+print(b'abc')
